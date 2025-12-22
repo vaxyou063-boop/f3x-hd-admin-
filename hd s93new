@@ -334,7 +334,6 @@ LMG2L["Gun_1f"]["Position"] = UDim2.new(0, 16, 0, 106);
 LMG2L["LocalScript_20"] = Instance.new("LocalScript", LMG2L["Gun_1f"]);
 
 
-
 -- StarterGui.PlayerGui.S93new.SAB.SAB.Credit 
 LMG2L["Credit _21"] = Instance.new("TextLabel", LMG2L["SAB_2"]);
 LMG2L["Credit _21"]["BorderSizePixel"] = 0;
